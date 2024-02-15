@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Title Screen.unity
+    guid: 70bc1d748c6084feeafcddede1c51b83
+  - enabled: 1
+    path: Assets/_Scenes/Chase Level 0 - Tutorial.unity
+    guid: 279d422e03421b142bcd7a3145490140
+  - enabled: 1
+    path: Assets/_Scenes/Chase Level 1 - Maze.unity
+    guid: 030ee565cff535a44a5166c43c98d557
+  - enabled: 1
+    path: Assets/_Scenes/Chase Level 2 - Stay in the lines.unity
+    guid: 65a773cd39e6d1649917dafaecd5eee1
+  - enabled: 1
+    path: Assets/_Scenes/Josh 1.unity
+    guid: ae9a9059a898646a9ba0ff73f63a07f2
+  - enabled: 1
+    path: Assets/_Scenes/Long 1.unity
+    guid: 9d7725218965d4ddfb61f8854a6b78e5
+  - enabled: 1
+    path: Assets/_Scenes/Vinny 1.unity
+    guid: fb87c2058bea058479f48415db0be2b5
+  - enabled: 1
+    path: Assets/_Scenes/Vinny 2.unity
+    guid: ec87fbc9ad2623a4b8d84b4b9ae6c6e5
+  - enabled: 1
+    path: Assets/_Scenes/Vinny 3.unity
+    guid: 12d1c22740ca6774cab25180fa4ceee1
+  - enabled: 1
+    path: Assets/_Scenes/Win Screen.unity
+    guid: 05d0eb9bc1297457bac81280233cecc7
+  m_configObjects: {}
